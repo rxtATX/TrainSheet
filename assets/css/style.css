@@ -1,0 +1,20 @@
+.jumbotron{
+	margin-top: 4rem;
+	background-color:rgba(0,0,0,0.8);
+	color: white;
+}
+
+body{
+	background-color:rgba(0,0,0,0.6);
+}
+
+.panel-body{
+	background-color:rgba(0,0,0,0.8);
+	color: white;
+	font-weight: bold;
+}
+
+.form-control{
+	background-color: black;
+	color: white;
+}
